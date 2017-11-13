@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">LendBox</string>
+    <string name="api_url">https://www.lendbox.in</string>
+    <string-array name="loan_purpose">
+        <item> Appliance Purchase</item>
+        <item>Business Funding</item>
+        <item>Buying a Property</item>
+        <item>Car/2-wheeler Purchase</item>
+        <item>Credit Card Bill Consolidation</item>
+        <item>Debt Consolidation</item>
+        <item>Education</item>
+        <item>Family Event</item>
+        <item>Home Furnishing</item>
+        <item>Home Improvement</item>
+        <item>Medical</item>
+        <item>Travel/Vacation</item>
+        <item>Wedding</item>
+
+    </string-array>
+    <string-array name="roi">
+        <item>12.00%</item>
+        <item>12.25%</item>
+        <item>12.50%</item>
+        <item>12.75%</item>
+        <item>13.00%</item>
+        <item>13.25%</item>
+        <item>13.50%</item>
+        <item>13.75%</item>
+        <item>14.00%</item>
+        <item>14.25%</item>
+        <item>14.50%</item>
+        <item>14.75%</item>
+        <item>15.00%</item>
+        <item>15.25%</item>
+        <item>15.50%</item>
+        <item>15.75%</item>
+        <item>16.00%</item>
+        <item>16.25%</item>
+        <item>16.50%</item>
+        <item>16.75%</item>
+        <item>17.00%</item>
+        <item>17.25%</item>
+        <item>17.50%</item>
+        <item>17.75%</item>
+        <item>18.00%</item>
+        <item>18.25%</item>
+        <item>18.50%</item>
+        <item>18.75%</item>
+        <item>19.00%</item>
+        <item>19.25%</item>
+        <item>19.50%</item>
+        <item>19.75%</item>
+        <item>20.00%</item>
+        <item>20.25%</item>
+        <item>20.50%</item>
+        <item>20.75%</item>
+        <item>21.00%</item>
+        <item>21.25%</item>
+        <item>21.50%</item>
+        <item>21.75%</item>
+        <item>22.00%</item>
+        <item>22.25%</item>
+        <item>22.50%</item>
+        <item>22.75%</item>
+        <item>23.00%</item>
+        <item>23.25%</item>
+        <item>23.50%</item>
+        <item>23.75%</item>
+        <item>24.00%</item>
+        <item>24.25%</item>
+        <item>24.50%</item>
+        <item>24.75%</item>
+        <item>25.00%</item>
+        <item>25.25%</item>
+        <item>25.50%</item>
+        <item>25.75%</item>
+        <item>26.00%</item>
+        <item>26.25%</item>
+        <item>26.50%</item>
+        <item>26.75%</item>
+        <item>27.00%</item>
+        <item>27.25%</item>
+        <item>27.50%</item>
+        <item>27.75%</item>
+        <item>28.00%</item>
+        <item>28.25%</item>
+        <item>28.50%</item>
+        <item>28.75%</item>
+        <item>29.00%</item>
+        <item>29.25%</item>
+        <item>29.50%</item>
+        <item>29.75%</item>
+        <item>30.00%</item>
+        <item>30.25%</item>
+        <item>30.50%</item>
+        <item>30.75%</item>
+        <item>31.00%</item>
+        <item>31.25%</item>
+        <item>31.50%</item>
+        <item>31.75%</item>
+        <item>32.005</item>
+        <item>32.25%</item>
+        <item>32.50%</item>
+        <item>32.75%</item>
+        <item>33.00%</item>
+        <item>33.25%</item>
+        <item>33.50%</item>
+        <item>33.75%</item>
+        <item>34.00%</item>
+        <item>34.25%</item>
+        <item>34.50%</item>
+        <item>34.75%</item>
+        <item>35.00%</item>
+        <item>35.25%</item>
+        <item>35.50%</item>
+        <item>35.75%</item>
+        <item>36.00%</item>
+
+    </string-array>
+    <string-array name="loan_duration">
+        <item></item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+        <item>30</item>
+        <item>36</item>
+
+    </string-array>
+    <string-array name="loan_city">
+        <item>Adresh Nagar</item>
+        <item>Ahmedabad</item>
+        <item>Allahabad</item>
+        <item>Aurangabad</item>
+        <item>Baghpat</item>
+        <item>Bhopal</item>
+        <item>Bhubaneshwar</item>
+        <item>Cantonment</item>
+        <item>Chandigarh</item>
+        <item>Cochin</item>
+        <item>Coimbatore</item>
+        <item>Delhi</item>
+        <item>Deoban</item>
+        <item>Devla</item>
+        <item>Dharwad</item>
+        <item>Dindori</item>
+        <item>Erode</item>
+        <item>Hooghly</item>
+        <item>Howrah</item>
+        <item>Hubli</item>
+        <item>Hyderabad</item>
+        <item>Igatpuri</item>
+        <item>Indore</item>
+        <item>Jaipur</item>
+        <item>Jalandhar</item>
+        <item>Khaprkheda</item>
+        <item>Kolhapur</item>
+        <item>Kolkata</item>
+        <item>Koradi</item>
+        <item>Mangalore</item>
+        <item>Mawana</item>
+        <item>Meerut</item>
+        <item>Mumbai</item>
+        <item>Mysore</item>
+        <item>Nagpur</item>
+        <item>Namakkal</item>
+        <item>Nandgaon</item>
+        <item>Nashik</item>
+        <item>Nasik</item>
+        <item>Niphad</item>
+        <item>Noida</item>
+        <item>North 24 Parganas</item>
+        <item>Peint</item>
+        <item>Pune</item>
+        <item>PurKaji</item>
+        <item>Rajkot</item>
+        <item>Saharanpur</item>
+        <item>Salem</item>
+        <item>Satana</item>
+        <item>Secunderabad</item>
+        <item>Shamli</item>
+        <item>Sinnar</item>
+        <item>South 24 Parganas</item>
+        <item>Surat</item>
+        <item>Surgana</item>
+        <item>Trichy</item>
+        <item>Trimbakeshwar</item>
+        <item>Wanadongri</item>
+        <item>Yeola</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="title">
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Ms.</item>
+    </string-array>
+</resources>
